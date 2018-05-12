@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26841'
     url: http://www.gutenberg.org/2009/agents/26841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32353#The-Mind-Digger
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-12'
 gutenberg_type: Text
